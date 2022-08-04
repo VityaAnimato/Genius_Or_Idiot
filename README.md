@@ -5,4 +5,6 @@ U need to decide 5 or more questions - for 5-10 seconds! - and in the u get ur d
 
 U can add new question, remove exist question and show results :)
 
+.NET 5.0
+
 ![Image alt](https://github.com/VityaAnimato/Genius_Or_Idiot/blob/main/screenshot.jpg)
